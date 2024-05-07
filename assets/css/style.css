@@ -91,9 +91,10 @@ h6 {
 }
 
 #header .logo {
-  font-size: 25px;
+  font-size: 20px;
   margin: 0;
   padding: 0;
+  padding-left: 10px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
 }
@@ -574,6 +575,7 @@ section {
 .about .container {
   position: relative;
   z-index: 10;
+  
 }
 
 .about .content {
@@ -1119,8 +1121,8 @@ section {
 }
 
 .pricing .box h4 {
-  font-size: 42px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 300;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
 }
@@ -1179,12 +1181,10 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  border-color: #fff;
+  border-color: #ac0d0d;
 }
 
-.pricing .featured {
-  background: #e03a3c;
-}
+
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions
@@ -1249,7 +1249,7 @@ section {
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
-  border-radius: 5px;
+  border-radius: 6px;
   background: #fff;
   position: relative;
 }
