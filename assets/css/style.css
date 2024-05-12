@@ -507,6 +507,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 500;
+  padding-top: 10px;
 }
 
 .breadcrumbs ol {
@@ -592,6 +593,12 @@ section {
   margin-bottom: 30px;
 }
 
+.about .content img{
+  width: 100%;
+  position: relative;
+  right: 0;
+  border-radius: 15px;
+}
 .about .content .about-btn {
   padding: 8px 30px 9px 30px;
   color: #fff;
@@ -803,6 +810,7 @@ section {
   color: #e03a3c;
   font-size: 40px;
   line-height: 0;
+  margin-top: 20px;
 }
 
 .services .icon-box h4 {
@@ -1121,10 +1129,12 @@ section {
 }
 
 .pricing .box h4 {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
 }
 
 .pricing .box h4 sup {
