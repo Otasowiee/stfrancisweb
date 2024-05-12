@@ -101,14 +101,12 @@ h6 {
 
 #header .logo a {
   color: #111111;
+  font-family: 'Times New Roman', Times, serif;
 }
 
-#header .logo a span {
-  color: #e03a3c;
-}
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 35px;
 }
 
 /*--------------------------------------------------------------
