@@ -125,6 +125,30 @@ h6 {
   display: inline-block;
 }
 
+.get-started-btn-1 {
+  margin-left: 30px;
+  border-radius: 4px;
+  padding: 8px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.get-started-btn-1 span{
+  color: #ffffff;
+  background-color: #c41717;
+  border-radius: 4px;
+  padding: 8px 25px;
+  font-weight: 600;
+}
+
+.get-started-btn-1 span:hover {
+  background: #d89a26;
+  color: #fff;
+}
+
 .get-started-btn:hover {
   background: #111111;
   color: #fff;
@@ -394,6 +418,7 @@ h6 {
   margin: 10px 0 0 0;
   font-size: 24px;
 }
+
 
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
@@ -1903,6 +1928,8 @@ section {
   font-size: 22px;
 }
 
+
+
 .blog .blog-comments .reply-form p {
   font-size: 14px;
 }
@@ -2082,6 +2109,20 @@ section {
 
 .blog .sidebar .recent-posts h4 a:hover {
   color: #e03a3c;
+}
+
+.blog .sidebar .reply-form h4 {
+  color: #111111;
+  font-weight: 800;
+}
+
+
+.blog .sidebar .btn {
+  color: #ffffff;
+}
+
+.blog .sidebar .row{
+  padding: 7px;
 }
 
 .blog .sidebar .recent-posts time {
