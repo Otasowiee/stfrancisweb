@@ -1360,12 +1360,12 @@ section {
 
 .pricing .box .btn-buy {
   display: inline-block;
-  padding: 10px 40px 12px 40px;
-  border-radius: 4px;
+  padding: 8px 30px 8px 30px;
+  border-radius: 5px;
   color: #fff;
   transition: none;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 12px;
+  font-weight: 100;
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   transition: 0.3s;
@@ -1373,7 +1373,7 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  border-color: #ac0d0d;
+  border-color: #ac740d;
 }
 
 
