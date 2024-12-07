@@ -1,0 +1,95 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\notai\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.3.0
+2 info using node@v20.9.0
+3 timing npm:load:whichnode Completed in 6ms
+4 timing config:load:defaults Completed in 9ms
+5 timing config:load:file:C:\Users\notai\AppData\Roaming\npm\node_modules\npm\npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 5ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:g:\notai\stfrancisweb\stfrancisweb\stfrancisweb\.npmrc Completed in 1ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:C:\Users\notai\.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:C:\Users\notai\AppData\Roaming\npm\etc\npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 2ms
+16 timing config:load Completed in 24ms
+17 timing npm:load:configload Completed in 24ms
+18 timing config:load:flatten Completed in 3ms
+19 timing npm:load:mkdirpcache Completed in 1ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm list
+22 verbose argv "list" "--json"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:G:\notai\stfrancisweb\stfrancisweb\stfrancisweb\notai\packages\npm\_logs\2024-05-01T13_46_28_452Z-
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\notai\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.3.0
+2 info using node@v20.9.0
+3 timing npm:load:whichnode Completed in 7ms
+4 timing config:load:defaults Completed in 5ms
+5 timing config:load:file:C:\Users\notai\AppData\Roaming\npm\node_modules\npm\npmrc Completed in 6ms
+6 timing config:load:builtin Completed in 6ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:g:\notai\stfrancisweb\stfrancisweb\stfrancisweb\.npmrc Completed in 0ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:C:\Users\notai\.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:C:\Users\notai\AppData\Roaming\npm\etc\npmrc Completed in 0ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 21ms
+17 timing npm:load:configload Completed in 21ms
+18 timing config:load:flatten Completed in 4ms
+19 timing npm:load:mkdirpcache Completed in 1ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm outdated
+22 verbose argv "outdated" "--json"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing npm:load:display Completed in 2ms
+25 verbose logfile logs-max:10 dir:G:\notai\stfrancisweb\stfrancisweb\stfrancisweb\notai\packages\npm\_logs\2024-05-01T13_46_28_452Z-
+26 verbose logfile G:\notai\stfrancisweb\stfrancisweb\stfrancisweb\notai\packages\npm\_logs\2024-05-01T13_46_28_452Z-debug-0.log
+27 timing npm:load:logFile Completed in 15ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 115ms
+26 verbose logfile G:\notai\stfrancisweb\stfrancisweb\stfrancisweb\notai\packages\npm\_logs\2024-05-01T13_46_28_452Z-debug-0.log
+27 timing npm:load:logFile Completed in 14ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 117ms
+31 silly logfile start cleaning logs, removing 2 files
+32 silly logfile done cleaning log files
+31 timing arborist:ctor Completed in 1ms
+33 timing arborist:ctor Completed in 1ms
+32 silly logfile done cleaning log files
+33 timing arborist:ctor Completed in 0ms
+34 timing arborist:ctor Completed in 1ms
+34 timing command:list Completed in 3007ms
+35 verbose exit 0
+36 timing npm Completed in 3373ms
+37 info ok
+35 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fuser-event 5079ms (cache revalidated)
+36 http fetch GET 200 https://registry.npmjs.org/@testing-library%2fjest-dom 5219ms (cache revalidated)
+37 http fetch GET 200 https://registry.npmjs.org/web-vitals 5191ms (cache revalidated)
+38 http fetch GET 200 https://registry.npmjs.org/bootstrap 5217ms (cache revalidated)
+39 http fetch GET 200 https://registry.npmjs.org/react 5219ms (cache revalidated)
+40 http fetch GET 200 https://registry.npmjs.org/swiper 5224ms (cache revalidated)
+41 http fetch GET 200 https://registry.npmjs.org/react-dom 5244ms (cache revalidated)
+42 http fetch GET 200 https://registry.npmjs.org/isotope-layout 5278ms (cache revalidated)
+43 http fetch GET 200 https://registry.npmjs.org/react-scripts 5268ms (cache revalidated)
+44 http fetch GET 200 https://registry.npmjs.org/@testing-library%2freact 5299ms (cache revalidated)
+45 http fetch GET 200 https://registry.npmjs.org/react-countup 5597ms (cache revalidated)
+46 http fetch GET 200 https://registry.npmjs.org/react-scroll 5757ms (cache revalidated)
+47 http fetch GET 200 https://registry.npmjs.org/react-bootstrap 5774ms (cache revalidated)
+48 http fetch GET 200 https://registry.npmjs.org/aos 5909ms (cache revalidated)
+49 http fetch GET 200 https://registry.npmjs.org/react-bootstrap-icons 5899ms (cache revalidated)
+50 http fetch GET 200 https://registry.npmjs.org/react-router-hash-link 5982ms (cache revalidated)
+51 http fetch GET 200 https://registry.npmjs.org/glightbox 5998ms (cache revalidated)
+52 http fetch GET 200 https://registry.npmjs.org/@srexi%2fpurecounterjs 6651ms (cache revalidated)
+53 timing command:outdated Completed in 9075ms
+54 verbose exit 1
+55 timing npm Completed in 10113ms
+56 verbose code 1
